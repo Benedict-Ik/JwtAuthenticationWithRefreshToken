@@ -1,7 +1,7 @@
 # JwtAuthenticationWithRefreshToken
 
 ## Project Summary
-This project is a simple implementation of JWT authentication with refresh tokens using .Net 8. It includes a basic API for user registration, login, and token management. The project is designed to demonstrate the use of JWTs for secure authentication and authorization in a web application.
+This project is a simple implementation of JWT authentication with refresh tokens using .Net 8. It includes a basic API for user login, and token management. The project is designed to demonstrate the use of JWTs for secure authentication and authorization in a web application.
 
 ## Introduction
  - In a typical [JWT (JSON Web Token) authentication setup](https://github.com/Benedict-Ik/JwtAuthentication), a user logs in and receives an access token—a digitally signed token that grants access to protected resources for a short duration (e.g., 15–30 minutes). 
