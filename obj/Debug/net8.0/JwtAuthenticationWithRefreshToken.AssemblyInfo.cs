@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JwtAuthenticationWithRefreshToken")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b68c3294dffa5d0bc7518c975063eeb07dac78f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57552053633cc4290bacad9e47b74daf91a29131")]
 [assembly: System.Reflection.AssemblyProductAttribute("JwtAuthenticationWithRefreshToken")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JwtAuthenticationWithRefreshToken")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
