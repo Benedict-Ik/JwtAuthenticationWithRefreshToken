@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "tigQ0YIusVjt5Ff1sw6jOIlxML2ZVQllhsb68v3rt08=",
+  "Source": "JwtAuthenticationWithRefreshToken",
+  "BasePath": "_content/JwtAuthenticationWithRefreshToken",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
