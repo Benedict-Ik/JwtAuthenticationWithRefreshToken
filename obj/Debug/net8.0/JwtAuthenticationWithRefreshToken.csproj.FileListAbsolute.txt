@@ -35,3 +35,12 @@ C:\Users\bened\OneDrive\Documents\Projects\CSharp\JwtAuthenticationWithRefreshTo
 C:\Users\bened\OneDrive\Documents\Projects\CSharp\JwtAuthenticationWithRefreshToken\obj\Debug\net8.0\JwtAuthenticationWithRefreshToken.pdb
 C:\Users\bened\OneDrive\Documents\Projects\CSharp\JwtAuthenticationWithRefreshToken\obj\Debug\net8.0\JwtAuthenticationWithRefreshToken.genruntimeconfig.cache
 C:\Users\bened\OneDrive\Documents\Projects\CSharp\JwtAuthenticationWithRefreshToken\obj\Debug\net8.0\ref\JwtAuthenticationWithRefreshToken.dll
+C:\Users\bened\OneDrive\Documents\Projects\CSharp\JwtAuthenticationWithRefreshToken\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bened\OneDrive\Documents\Projects\CSharp\JwtAuthenticationWithRefreshToken\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\bened\OneDrive\Documents\Projects\CSharp\JwtAuthenticationWithRefreshToken\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bened\OneDrive\Documents\Projects\CSharp\JwtAuthenticationWithRefreshToken\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bened\OneDrive\Documents\Projects\CSharp\JwtAuthenticationWithRefreshToken\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bened\OneDrive\Documents\Projects\CSharp\JwtAuthenticationWithRefreshToken\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bened\OneDrive\Documents\Projects\CSharp\JwtAuthenticationWithRefreshToken\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bened\OneDrive\Documents\Projects\CSharp\JwtAuthenticationWithRefreshToken\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bened\OneDrive\Documents\Projects\CSharp\JwtAuthenticationWithRefreshToken\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
