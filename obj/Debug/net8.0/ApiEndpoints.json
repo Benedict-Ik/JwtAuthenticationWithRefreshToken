@@ -1,5 +1,47 @@
 [
   {
+    "ContainingType": "JwtAuthenticationWithRefreshToken.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "authRequest",
+        "Type": "JwtAuthenticationWithRefreshToken.Models.AuthRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JwtAuthenticationWithRefreshToken.Controllers.AuthController",
+    "Method": "RefreshToken",
+    "RelativePath": "api/Auth/RefreshToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "refreshToken",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JwtAuthenticationWithRefreshToken.Controllers.SecretController",
+    "Method": "Get",
+    "RelativePath": "api/Secret/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "JwtAuthenticationWithRefreshToken.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

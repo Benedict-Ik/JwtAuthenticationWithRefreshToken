@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("JwtAuthenticationWithRefreshToken")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+946c60dfd224d496a9bcbeaae3f75b72d59445d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("JwtAuthenticationWithRefreshToken")]

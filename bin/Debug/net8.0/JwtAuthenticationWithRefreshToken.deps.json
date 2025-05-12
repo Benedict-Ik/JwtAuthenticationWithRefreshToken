@@ -9,6 +9,7 @@
       "JwtAuthenticationWithRefreshToken/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.14",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0",
           "Swashbuckle.AspNetCore": "6.6.2",
           "System.IdentityModel.Tokens.Jwt": "8.9.0"
         },
