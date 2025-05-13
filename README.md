@@ -14,7 +14,7 @@
 - Modified the `"Password"` value.
 
 ## Verifying Classes in Models Folder
-- Verified the existenceof the below classes in our `Models` folder:
+- Verified the existence of the below classes in our `Models` folder:
 
 ```C#
 public class JwtSettings
