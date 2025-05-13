@@ -6,10 +6,11 @@
 - Modified the `AdminCredentials` object to the below in the `appsettings.json` file:
 ```json
 "AuthRequest": {
-"Username": "admin",
-"Password": "password"
+"Username": "<admin>",
+"Password": "<password>"
 }
 ```
+- Replaced `<admin>` and `<password>` with actual values.
 
 - Modified the `"Password"` value.
 
