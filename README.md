@@ -10,7 +10,7 @@
 "Password": "<password>"
 }
 ```
-- Replaced `<admin>` and `<password>` with actual values.
+- Replace `<admin>` and `<password>` with actual values.
 
 - Modified the `"Password"` value.
 
